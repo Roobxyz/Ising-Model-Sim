@@ -6,6 +6,10 @@
 
 	Ising Model of magnetism simulation using java. Each square in the simulation represents an atom, with its colour representing its spin state (up or down). The simulation os interactive, the user can modify the temperature, the Dynamics used for updating the grid and the system size.
 
+	To compile:
+		cd src/main/
+		javac main.java
+
 	To run: 
 		java main
 
