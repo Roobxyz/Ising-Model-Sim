@@ -49,9 +49,3 @@
 	Glauber) If T is dropped to 0, the spins align either all together,  or with highly ordered "striped" regions given enough time.
 
 	Kawasaki) T -> 0 gives a stable eqm state which has minor fluctiations (corresponding to E=0 considerations)
-
-
-	/***
-	  Aaron ReubenTaylor
-	  reuben91@me.com
-	 ***/
